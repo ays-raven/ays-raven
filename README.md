@@ -48,16 +48,6 @@ Computer and Systems Engineering student at **Zagazig University**, with a stron
 
 <br/>
 
-## GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ays-raven&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=E0E0E0" width="60%" />
-
-</p>
-
-<br/>
-
 ## Contact
 
 <p align="center">
