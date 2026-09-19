@@ -3,10 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:2b0000&height=200&section=header&text=Ahmed%20Yasser&fontSize=52&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=Computer%20and%20Systems%20Engineering%20Student&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://github.com/ays-raven.png" width="140" alt="ays-raven"/>
-
-</p>
-
 <br/>
+<a href="https://github.com/ays-raven">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B0B0B0&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Zagazig+Universit;Will+we+finally+be+free+%F0%9F%AA%BD" alt="Typing SVG" />
+</a>
+</p>
+<br/>
+
 
 
 ## About
