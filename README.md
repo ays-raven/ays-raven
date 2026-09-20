@@ -18,8 +18,6 @@ Computer and Systems Engineering student at **Zagazig University**, with a stron
 
 **Currently developing skills in:** Circuits · Mathematics · Computer Systems · Programming · Competitive Programming
 
-> *"Ultimate goal is Freedom to do what I want."* —
-
 <br/>
 
 ## Github Stats
